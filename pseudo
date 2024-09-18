@@ -1,0 +1,4 @@
+pseudo code only
+use get-childItem -recurse (with full file name path) into a file using 'out-file'.  i dont see how to get it with get-childitem.  
+take out-file and for each item and delete.
+log error levels to a verbose log file
